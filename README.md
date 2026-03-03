@@ -4,127 +4,55 @@ A complete, modular Hospital Management System designed to streamline hospital o
 
 This system is built with scalability in mind and can grow with organizational needs.
 
-## 🚀 Overview
+## Overview
 
 The Hospital Management System simplifies administrative, clinical, and financial processes through an integrated and structured approach.
 
 It provides a centralized platform for managing patients, appointments, billing, pharmacy operations, laboratory reports, and analytics.
 
-## ✨ Core Features
+## Core Features
 
-- 👤 Patient Management
+- Patient Management
+- Appointments
+- Billing
+- Pharmacy & Inventory
+- Lab & Reports
+- Analytics & Insights
 
-  Patient registration and profile management
+## Tech Stack
 
-  OPD/IPD workflow handling
+- HTML5 – Structure
+- CSS3 – UI & Styling
+- JavaScript (Vanilla JS) – Application Logic
 
-  Medical history tracking
-
-  Discharge summaries management
-
-- 📅 Appointments
-
-  Doctor-wise calendar system
-
-  Slot booking functionality
-
-  Automated reminders
-
-  Queue management
-
-- 💳 Billing
-
-  Bill generation and invoice management
-
-  Payment tracking
-
-  Insurance and TPA integration support
-
-- 💊 Pharmacy & Inventory
-
-  Medicine stock management
-
-  Expiry alerts
-
-  Purchase order tracking
-
-  Usage logs and inventory control
-
-- 🧪 Lab & Reports
-
-  Diagnostic test orders
-
-  Sample tracking
-
-  Auto-generated laboratory reports
-
-- 📊 Analytics & Insights
-
-  Daily, weekly, and monthly reports
-
-  OPD statistics
-
-  Revenue tracking
-
-  Bed occupancy analysis
-
-  Operational performance insights
-
-## 🛠 Tech Stack
-
-HTML5 – Structure
-
-CSS3 – UI & Styling
-
-JavaScript (Vanilla JS) – Application Logic
-
-## 📂 Project Structure
+## Project Structure
 ```
 
 Hospital-Management-System/
-
 │
-
 ├── index.html
-
 ├── css/
-
 │   └── style.css
-
 ├── js/
-
 │   └── script.js
-
 └── assets/
+
 ```
-## 🎯 Objectives
+## Objectives
 
-Centralize hospital administrative processes
-
-Improve operational efficiency
-
-Enable structured data management
-
-Provide real-time operational insights
+- Centralize hospital administrative processes
+- Improve operational efficiency
+- Enable structured data management
+- Provide real-time operational insights
 
 ## Future Enhancements
 
-Backend integration (Node.js / Express)
-
-Database support (MongoDB / MySQL)
-
-Authentication & role-based access control
-
-Cloud deployment
-
-Payment gateway integration
+- Backend integration (Node.js / Express)
+- Database support (MongoDB / MySQL)
+- Authentication & role-based access control
+- Cloud deployment
+- Payment gateway integration
 
 ## 📌 Status
 
 Active Development
-
-##  Author
-
-Rushikesh and Akash 
-
-Open to collaboration and improvement suggestions.
