@@ -4,73 +4,73 @@ A complete, modular Hospital Management System designed to streamline hospital o
 
 This system is built with scalability in mind and can grow with organizational needs.
 
-🚀 Overview
+## 🚀 Overview
 
 The Hospital Management System simplifies administrative, clinical, and financial processes through an integrated and structured approach.
 
 It provides a centralized platform for managing patients, appointments, billing, pharmacy operations, laboratory reports, and analytics.
 
-✨ Core Features
+## ✨ Core Features
 
-👤 Patient Management
+- 👤 Patient Management
 
-Patient registration and profile management
+  Patient registration and profile management
 
-OPD/IPD workflow handling
+  OPD/IPD workflow handling
 
-Medical history tracking
+  Medical history tracking
 
-Discharge summaries management
+  Discharge summaries management
 
-📅 Appointments
+- 📅 Appointments
 
-Doctor-wise calendar system
+  Doctor-wise calendar system
 
-Slot booking functionality
+  Slot booking functionality
 
-Automated reminders
+  Automated reminders
 
-Queue management
+  Queue management
 
-💳 Billing
+- 💳 Billing
 
-Bill generation and invoice management
+  Bill generation and invoice management
 
-Payment tracking
+  Payment tracking
 
-Insurance and TPA integration support
+  Insurance and TPA integration support
 
-💊 Pharmacy & Inventory
+- 💊 Pharmacy & Inventory
 
-Medicine stock management
+  Medicine stock management
 
-Expiry alerts
+  Expiry alerts
 
-Purchase order tracking
+  Purchase order tracking
 
-Usage logs and inventory control
+  Usage logs and inventory control
 
-🧪 Lab & Reports
+- 🧪 Lab & Reports
 
-Diagnostic test orders
+  Diagnostic test orders
 
-Sample tracking
+  Sample tracking
 
-Auto-generated laboratory reports
+  Auto-generated laboratory reports
 
-📊 Analytics & Insights
+- 📊 Analytics & Insights
 
-Daily, weekly, and monthly reports
+  Daily, weekly, and monthly reports
 
-OPD statistics
+  OPD statistics
 
-Revenue tracking
+  Revenue tracking
 
-Bed occupancy analysis
+  Bed occupancy analysis
 
-Operational performance insights
+  Operational performance insights
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 HTML5 – Structure
 
@@ -78,7 +78,8 @@ CSS3 – UI & Styling
 
 JavaScript (Vanilla JS) – Application Logic
 
-📂 Project Structure
+## 📂 Project Structure
+```
 
 Hospital-Management-System/
 
@@ -95,8 +96,8 @@ Hospital-Management-System/
 │   └── script.js
 
 └── assets/
-
-🎯 Objectives
+```
+## 🎯 Objectives
 
 Centralize hospital administrative processes
 
@@ -106,7 +107,7 @@ Enable structured data management
 
 Provide real-time operational insights
 
-🔮 Future Enhancements
+## Future Enhancements
 
 Backend integration (Node.js / Express)
 
@@ -118,11 +119,11 @@ Cloud deployment
 
 Payment gateway integration
 
-📌 Status
+## 📌 Status
 
 Active Development
 
-👨‍💻 Author
+##  Author
 
 Rushikesh and Akash 
 
