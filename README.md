@@ -1,4 +1,4 @@
-🏥 Hospital Management System
+# [Hospital Management System](https://hospital-management-system-gamma-ochre.vercel.app/#/)
 
 A complete, modular Hospital Management System designed to streamline hospital operations, improve efficiency, and centralize healthcare management workflows.
 
@@ -11,6 +11,7 @@ The Hospital Management System simplifies administrative, clinical, and financia
 It provides a centralized platform for managing patients, appointments, billing, pharmacy operations, laboratory reports, and analytics.
 
 ✨ Core Features
+
 👤 Patient Management
 
 Patient registration and profile management
@@ -78,14 +79,23 @@ CSS3 – UI & Styling
 JavaScript (Vanilla JS) – Application Logic
 
 📂 Project Structure
+
 Hospital-Management-System/
+
 │
+
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── assets/
+
 🎯 Objectives
 
 Centralize hospital administrative processes
@@ -114,6 +124,6 @@ Active Development
 
 👨‍💻 Author
 
-Rushikesh
-AI & Data Science Enthusiast
+Rushikesh and Akash 
+
 Open to collaboration and improvement suggestions.
