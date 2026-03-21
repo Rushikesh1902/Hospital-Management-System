@@ -1,6 +1,6 @@
 # [Hospital Management System](https://hospital-management-system-gamma-ochre.vercel.app/#/)
 
-A complete, modular Hospital Management System designed to streamline hospital operations, improve efficiency, and centralize healthcare management workflows.
+A completye, modular Hospital Management System designed to streamline hospital operations, improve efficiency, and centralize healthcare management workflows.
 
 This system is built with scalability in mind and can grow with organizational needs.
 
